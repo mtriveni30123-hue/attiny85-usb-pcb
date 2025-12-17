@@ -22,10 +22,10 @@ This repository contains the design files for a compact ATtiny85-based USB PCB d
 ![Schematic](Screenshot%20(7).png)
 
 ### PCB Layout
-![PCB](Screenshot%20(2).png)
+![PCB](Screenshot%20(6).png)
 
 ### 3D View
-![3D](Screenshot%20(6).png)
+![3D](Screenshot%20(2).png)
 
 ## Tools Used
 - KiCad
