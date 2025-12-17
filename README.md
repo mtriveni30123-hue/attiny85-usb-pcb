@@ -19,7 +19,7 @@ This repository contains the design files for a compact ATtiny85-based USB PCB d
 ## Project Preview
 
 ### Schematic
-![Schematic](Screenshot%20(1).png)
+![Schematic](Screenshot%20(7).png)
 
 ### PCB Layout
 ![PCB](Screenshot%20(2).png)
